@@ -11,3 +11,4 @@ Licensed under the MIT license: http://www.opensource.org/licenses/mit-license.p
 
 # Support
 http://groups.google.com/group/camera-slideshow
+
