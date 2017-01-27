@@ -1,7 +1,7 @@
 {
     "name": "angelrove/clone-camera-slideshow",
     "type": "library",
-    "description": "My Utils",
+    "description": "Clone of camera-slideshow",
     "authors": [
         {
             "name": "Manuel Masia"
